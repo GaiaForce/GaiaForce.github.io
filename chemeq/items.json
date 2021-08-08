@@ -1,0 +1,151 @@
+{
+    "a": [
+        [
+            "CH₃CH₂OH",
+            [
+                "Ethanol",
+                "Ethyl Alcohol",
+                "C₂H₆O",
+                "C₂H₅OH"
+            ]
+        ],
+        [
+            "CH₃COOH",
+            [
+                "Acetic Acid",
+                "Ethanoic Acid",
+                "CH₃CO₂H",
+                "C₂H₄O₂"
+            ]
+        ],
+        [
+            "CO₂",
+            [
+                "Carbon Dioxide"
+            ]
+        ],
+        [
+            "Ca(HCO₃)₂",
+            [
+                "Calcium Hydrogencarbonate",
+                "Calcium Bicarbonate"
+            ]
+        ],
+        [
+            "Ca(OH)₂",
+            [
+                "Calcium Hydroxide",
+                "Slaked Lime"
+            ]
+        ],
+        [
+            "CaCO₃",
+            [
+                "Calcium Carbonate",
+                "Calcite",
+                "Chalk",
+                "Limestone",
+                "Marble"
+            ]
+        ],
+        [
+            "CaO",
+            [
+                "Calcium Oxide",
+                "Quicklime",
+                "Burnt Lime"
+            ]
+        ],
+        [
+            "Cl₂",
+            [
+                "Chlorine",
+                "Chlorine Gas"
+            ]
+        ],
+        [
+            "C₆H₁₂O₆",
+            [
+                "Glucose",
+                "ᴅ-Glucose",
+                "ᴅ-gluco-Hexose",
+                "D-Glucose",
+                "D-gluco-Hexose",
+                "(2R,3S,4R,5R)-2,3,4,5,6-Pentahydroxyhexanal"
+            ]
+        ],
+        [
+            "Fe",
+            [
+                "Iron"
+            ]
+        ],
+        [
+            "FeO",
+            [
+                "Iron(II) Oxide",
+                "Ferrous Oxide",
+                "Iron Monoxide"
+            ]
+        ],
+        [
+            "Fe₂O₃",
+            [
+                "Iron(III) Oxide",
+                "Ferric Oxide",
+                "Iron Sesquioxide",
+                "Hematite"
+            ]
+        ],
+        [
+            "HCl",
+            [
+                "Hydrochloric Acid (aq)",
+                "Hydrogen Chloride (g)",
+                "Muriatic Acid"
+            ]
+        ],
+        [
+            "H₂",
+            [
+                "Hydrogen",
+                "Dihydrogen",
+                "Hydrogen Gas"
+            ]
+        ],
+        [
+            "H₂CO₃",
+            [
+                "Carbonic Acid"
+            ]
+        ],
+        [
+            "H₂O",
+            [
+                "Water",
+                "Oxidane"
+            ]
+        ],
+        [
+            "NaCl",
+            [
+                "Sodium Chloride"
+            ]
+        ],
+        [
+            "NaOH",
+            [
+                "Sodium Hydroxide",
+                "Caustic Soda"
+            ]
+        ],
+        [
+            "O₂",
+            [
+                "Oxygen",
+                "Dioxygen",
+                "Oxygen Gas"
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,338 @@
+{
+    "1": {
+        "reactant": {
+            "HCl": [
+                1,
+                "aq"
+            ],
+            "NaOH": [
+                1,
+                "aq"
+            ]
+        },
+        "product": {
+            "NaCl": [
+                1,
+                "aq"
+            ],
+            "H₂O": [
+                1,
+                "l"
+            ]
+        },
+        "more": "<h3>HCl<sub>(aq)</sub> + NaOH<sub>(aq)</sub> ⟶ NaCl<sub>(aq)</sub> + H₂O<sub>(l)</sub></h3><hr><h4>Reactants:</h4><ul class=\"popup_list\"><li>HCl<sub>(aq)</sub>: Hydrochloric Acid (Aqueous)</li><li>NaOH<sub>(aq)</sub>: Sodium Hydroxide (Aqueous)</li></ul><h4>Products:</h4><ul class=\"popup_list\"><li>NaOH<sub>(aq)</sub>: Sodium Chloride (Aqueous)</li><li>H₂O<sub>(l)</sub>: Water (Liquid)</li></ul><hr><h4>Info:</h4><ul class=\"popup_list\"><li>An <b>acid-base reaction</b></li><li><b>Neutralization</b></li><li>An <b>exothermic</b> reaction</li></ul><hr><h4>References:</h4><ul class=\"popup_list\"><li>-</li></ul><button type=\"button\" id=\"close_popup_btn\" onclick=closePopup()>Close</button>"
+    },
+    "2": {
+        "reactant": {
+            "H₂O": [
+                6,
+                "l"
+            ],
+            "CO₂": [
+                6,
+                "g"
+            ]
+        },
+        "product": {
+            "C₆H₁₂O₆": [
+                1,
+                "aq"
+            ],
+            "O₂": [
+                6,
+                "g"
+            ]
+        },
+        "more": "<h3>6H₂O<sub>(l)</sub> + 6CO₂<sub>(g)</sub> ⟶ C₆H₁₂O₆<sub>(aq)</sub> + 6O₂<sub>(g)</sub></h3><hr><h4>Reactants:</h4><ul class=\"popup_list\"><li>H₂O<sub>(l)</sub>: Water (Liquid)</li><li>CO₂<sub>(g)</sub>: Carbon Dioxide (Gas)</li></ul><h4>Products:</h4><ul class=\"popup_list\"><li>C₆H₁₂O₆<sub>(aq)</sub>: Glucose (Aqueous)</li><li>O₂<sub>(g)</sub>: Oxygen (Gas)</li></ul><hr><h4>Info:</h4><ul class=\"popup_list\"><li>Chemical equation of <b>photosynthesis</b></li><li>Anabolism</li><li>Takes place in <b>chloroplast</b></li><li><b>Light (hν)</b> required for reacting</li><li onclick=\"openPopup('3')\">C₆H₁₂O₆<sub>(s)</sub> + 6O₂<sub>(g)</sub> ⟶ 6H₂O<sub>(l)</sub> + 6CO₂<sub>(g)</sub></li></ul><hr><h4>References:</h4><ul class=\"popup_list\"><li>1. <a href=\"https://www.justonly.com/chemistry/pdfs/ten_reactions.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">JustOnly - Ten Important Chemical Reactions Everyone Should Know</a></li></ul><button type=\"button\" id=\"close_popup_btn\" onclick=closePopup()>Close</button>"
+    },
+    "3": {
+        "reactant": {
+            "C₆H₁₂O₆": [
+                1,
+                "s"
+            ],
+            "O₂": [
+                6,
+                "g"
+            ]
+        },
+        "product": {
+            "H₂O": [
+                6,
+                "l"
+            ],
+            "CO₂": [
+                6,
+                "g"
+            ]
+        },
+        "more": "<h3>C₆H₁₂O₆<sub>(s)</sub> + 6O₂<sub>(g)</sub> ⟶ 6H₂O<sub>(l)</sub> + 6CO₂<sub>(g)</sub></h3><hr><h4>Reactants:</h4><ul class=\"popup_list\"><li>C₆H₁₂O₆<sub>(s)</sub>: Glucose (Solid)</li><li>O₂<sub>(g)</sub>: Oxygen (Gas)</li></ul><h4>Products:</h4><ul class=\"popup_list\"><li>H₂O<sub>(l)</sub>: Water (Liquid)</li><li>CO₂<sub>(g)</sub>: Carbon Dioxide (Gas)</li></ul><hr><h4>Info:</h4><ul class=\"popup_list\"><li>Chemical equation of <b>cellular aerobic respiration</b></li><li>Catabolism</li><li>Takes place in <b>mitochondria</b> in cytoplasm of cells <sup>[2]</sup></li><li>Produce <b>energy</b> in the form of <b>ATP</b></li><li onclick=\"openPopup('2')\">6H₂O<sub>(l)</sub> + 6CO₂<sub>(g)</sub> ⟶ C₆H₁₂O₆<sub>(aq)</sub> + 6O₂<sub>(g)</sub></li></ul><hr><h4>References:</h4><ul class=\"popup_list\"><li>1. <a href=\"https://en.wikipedia.org/wiki/Cellular_respiration#Aerobic_respiration\" target=\"_blank\" rel=\"noopener noreferrer\">Wikipedia - Cellular Respiration</a></li><li>2. <a href=\"https://www.reference.com/science/cell-respiration-place-4ddb222b02b62b8a\" target=\"_blank\" rel=\"noopener noreferrer\">Reference - Where Does Cell Respiration Take Place?</a></li></ul><button type=\"button\" id=\"close_popup_btn\" onclick=closePopup()>Close</button>"
+    },
+    "4": {
+        "reactant": {
+            "H₂": [
+                2,
+                "g"
+            ],
+            "O₂": [
+                2,
+                "g"
+            ]
+        },
+        "product": {
+            "H₂O": [
+                2,
+                "l"
+            ]
+        },
+        "more": "<h3>2H₂<sub>(g)</sub> + O₂<sub>(g)</sub> ⟶ H₂O<sub>(l)</sub></h3><hr><h4>Reactants:</h4><ul class=\"popup_list\"><li>H₂<sub>(g)</sub>: Hydrogen (Gas)</li><li>O₂<sub>(g)</sub>: Oxygen (Gas)</li></ul><h4>Products:</h4><ul class=\"popup_list\"><li>H₂O<sub>(l)</sub>: Water (Liquid)</li></ul><hr><h4>Info:</h4><ul class=\"popup_list\"><li>A <b>redox</b> reaction</li><li>An <b>exothermic</b> reaction</li><li><b>Heat</b> is required for starting the reaction</li><li>Produces <b>572kJ</b> <sup>[2]</sup></li><li onclick=\"openPopup('5')\">2H₂<sub>(g)</sub> + O₂<sub>(g)</sub> ⇌ H₂O<sub>(l)</sub></li></ul><hr><h4>Cautions:</h4><ul class=\"popup_list\"><li>Hydrogen is <b>highly flammable</b></li></ul><hr><h4>References:</h4><ul class=\"popup_list\"><li>1. <a href=\"https://www.justonly.com/chemistry/pdfs/ten_reactions.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">JustOnly - Ten Important Chemical Reactions Everyone Should Know</a></li><li>2. <a href=\"https://en.wikipedia.org/wiki/Hydrogen#Combustion\" target=\"_blank\" rel=\"noopener noreferrer\">Wikipedia - Hydrogen</a></li></ul><button type=\"button\" id=\"close_popup_btn\" onclick=closePopup()>Close</button>"
+    },
+    "5": {
+        "reactant": {
+            "H₂O": [
+                2,
+                "l"
+            ]
+        },
+        "product": {
+            "H₂": [
+                2,
+                "g"
+            ],
+            "O₂": [
+                2,
+                "g"
+            ]
+        },
+        "more": "<h3>H₂O<sub>(l)</sub> ⟶ 2H₂<sub>(g)</sub> + O₂<sub>(g)</sub></h3><hr><h4>Reactants:</h4><ul class=\"popup_list\"><li>H₂O<sub>(l)</sub>: Water (Liquid)</li></ul><h4>Products:</h4><ul class=\"popup_list\"><li>H₂<sub>(g)</sub>: Hydrogen (Gas)</li><li>O₂<sub>(g)</sub>: Oxygen (Gas)</li></ul><hr><h4>Info:</h4><ul class=\"popup_list\"><li>Chemical reaction of <b>water splitting</b></li><li><b>Electrolysis</b> of water</li></ul><hr><h4>Cautions:</h4><ul class=\"popup_list\"><li>Hydrogen is <b>highly flammable</b></li><li onclick=\"openPopup('4')\">2H₂<sub>(g)</sub> + O₂<sub>(g)</sub> ⇌ H₂O<sub>(l)</sub></li></ul><hr><h4>References:</h4><ul class=\"popup_list\"><li>1. <a href=\"https://en.wikipedia.org/wiki/Water_splitting\" target=\"_blank\"rel=\"noopener noreferrer\">Wikipedia - Water Splitting</a></li></ul><button type=\"button\" id=\"close_popup_btn\" onclick=closePopup()>Close</button>"
+    },
+    "6": {
+        "reactant": {
+            "CH₃CH₂OH": [
+                1,
+                "l"
+            ],
+            "O₂": [
+                1,
+                "g"
+            ]
+        },
+        "product": {
+            "CH₃COOH": [
+                1,
+                "aq"
+            ],
+            "H₂O": [
+                1,
+                "l"
+            ]
+        },
+        "more": "<h3>CH₃CH₂OH<sub>(l)</sub> + O₂<sub>(g)</sub> ⟶ CH₃COOH<sub>(aq)</sub> + H₂O<sub>(l)</sub> </h3><hr><h4>Reactants:</h4><ul class=\"popup_list\"><li>CH₃CH₂OH<sub>(l)</sub>: Ethanol (Liquid)</li><li>O₂<sub>(g)</sub>: Oxygen (Gas)</li></ul><h4>Products:</h4><ul class=\"popup_list\"><li>CH₃COOH<sub>(aq)</sub>: Acetic Acid (Aqueous)</li><li>H₂O<sub>(l)</sub>: Water (Liquid)</li></ul><hr><h4>Info:</h4><ul class=\"popup_list\"><li><b>Oxidation</b> of alcohol (ethanol)</li></ul><hr><h4>References:</h4><ul class=\"popup_list\"><li>1. <a href=\"https://www.justonly.com/chemistry/pdfs/ten_reactions.pdf\" target=\"_blank\"rel=\"noopener noreferrer\">JustOnly - Ten Important Chemical Reactions Everyone Should Know</a></li><li>2. <a href=\"https://en.wikipedia.org/wiki/Alcohol_oxidation\" target=\"_blank\" rel=\"noopener noreferrer\">Wikipedia -Alcohol Oxidation</a></li></ul><button type=\"button\" id=\"close_popup_btn\" onclick=closePopup()>Close</button>"
+    },
+    "7": {
+        "reactant": {
+            "Fe": [
+                4,
+                "s"
+            ],
+            "O₂": [
+                3,
+                "g"
+            ]
+        },
+        "product": {
+            "Fe₂O₃": [
+                2,
+                "s"
+            ]
+        },
+        "more": "<h3>4Fe<sub>(s)</sub> + 3O₂<sub>(g)</sub> ⟶ 2Fe₂O₃<sub>(s)</sub></h3><hr><h4>Reactants:</h4><ul class=\"popup_list\"><li>Fe<sub>(s)</sub>: Iron (Solid)</li><li>O₂<sub>(g)</sub>: Oxygen (Gas)</li></ul><h4>Products:</h4><ul class=\"popup_list\"><li>Fe₂O₃<sub>(s)</sub>: Iron(III) Oxide (Solid)</li></ul><hr><h4>Info:</h4><ul class=\"popup_list\"><li><b>Oxidation</b> of iron</li></ul><hr><h4>References:</h4><ul class=\"popup_list\"><li>1. <a href=\"https://www.justonly.com/chemistry/pdfs/ten_reactions.pdf\" target=\"_blank\"rel=\"noopener noreferrer\">JustOnly - Ten Important Chemical Reactions Everyone Should Know</a></li></ul><button type=\"button\" id=\"close_popup_btn\" onclick=closePopup()>Close</button>"
+    },
+    "8": {
+        "reactant": {
+            "NaCl": [
+                2,
+                "aq"
+            ],
+            "H₂O": [
+                2,
+                "l"
+            ]
+        },
+        "product": {
+            "NaOH": [
+                2,
+                "aq"
+            ],
+            "H₂": [
+                1,
+                "g"
+            ],
+            "Cl₂": [
+                1,
+                "g"
+            ]
+        },
+        "more": "<h3>2NaCl<sub>(aq)</sub> + 2H₂O<sub>(l)</sub> ⟶ 2NaOH<sub>(aq)</sub> + H₂<sub>(g)</sub> + Cl₂<sub>(g)</sub></h3><hr><h4>Reactants:</h4><ul class=\"popup_list\"><li>NaCl<sub>(aq)</sub>: Sodium Chloride (Aqueous)</li><li>H₂O<sub>(l)</sub>: Water (Liquid)</li></ul><h4>Products:</h4><ul class=\"popup_list\"><li>NaOH<sub>(aq)</sub>: Sodium Hydroxide (Aqueous)</li><li>H₂<sub>(g)</sub>: Hydrogen (Gas)</li><li>Cl₂<sub>(g)</sub>: Chlorine (Gas)</li></ul><hr><h4>Info:</h4><ul class=\"popup_list\"><li><b>Electrolysis</b> of brine</li><li>Chloralkali Process</li></ul><hr><h4>References:</h4><ul class=\"popup_list\"><li>1. <a href=\"https://en.wikipedia.org/wiki/Chloralkali_process\" target=\"_blank\" rel=\"noopener noreferrer\">Wikipedia - Chloralkali Process</a></li></ul><button type=\"button\" id=\"close_popup_btn\" onclick=closePopup()>Close</button>"
+    },
+    "9": {
+        "reactant": {
+            "CaCO₃": [
+                1,
+                "s"
+            ]
+        },
+        "product": {
+            "CaO": [
+                1,
+                "s"
+            ],
+            "CO₂": [
+                1,
+                "g"
+            ]
+        },
+        "more": "<h3>CaCO₃<sub>(s)</sub> ⟶ CaO<sub>(s)</sub> + CO₂<sub>(g)</sub></h3><hr><h4>Reactants:</h4><ul class=\"popup_list\"><li>CaCO₃<sub>(s)</sub>: Calcium Carbonate (Solid)</li></ul><h4>Products:</h4><ul class=\"popup_list\"><li>CaO<sub>(s)</sub>: Calcium Oxide (Solid)</li><li>CO₂<sub>(g)</sub>: Carbon Dioxide (Gas)</li></ul><hr><h4>Info:</h4><ul class=\"popup_list\"><li>Calcination</li><li><b>Heat (Δ)</b> required for reacting</li></ul><hr><h4>References:</h4><ul class=\"popup_list\"><li>1. <a href=\"https://en.wikipedia.org/wiki/Calcium_carbonate#Chemistry\" target=\"_blank\" rel=\"noopener noreferrer\">Wikipedia - Calcium Carbonate</a></li><li>2. <a href=\"https://en.wikipedia.org/wiki/Calcium_oxide#Preparation\" target=\"_blank\" rel=\"noopener noreferrer\">Wikipedia - Calcium Oxide</a></li><li>2. <a href=\"https://en.wikipedia.org/wiki/Calcination\" target=\"_blank\" rel=\"noopener noreferrer\">Wikipedia - Calcination</a></li></ul><button type=\"button\" id=\"close_popup_btn\" onclick=closePopup()>Close</button>"
+    },
+    "10": {
+        "reactant": {
+            "CaO": [
+                1,
+                "s"
+            ],
+            "H₂O": [
+                1,
+                "l"
+            ]
+        },
+        "product": {
+            "Ca(OH)₂": [
+                1,
+                "aq"
+            ]
+        },
+        "more": "<h3>CaO<sub>(s)</sub> + H₂O<sub>(l)</sub> ⟶ Ca(OH)₂<sub>(aq)</sub></h3><hr><h4>Reactants:</h4><ul class=\"popup_list\"><li>CaO<sub>(s)</sub>: Calcium Oxide (Solid)</li><li>H₂O<sub>(l)</sub>: Water (Liquid)</li></ul><h4>Products:</h4><ul class=\"popup_list\"><li>Ca(OH)₂<sub>(aq)</sub>: Calcium Hydroxide (Aqueous)</li></ul><hr><h4>Info:</h4><ul class=\"popup_list\"><li>An <b>exothermic</b> reaction</li><li onclick=\"openPopup('11')\">CaO<sub>(s)</sub> + H₂O<sub>(l)</sub> ⇌ Ca(OH)₂<sub>(aq)</sub></li></ul><hr><h4>References:</h4><ul class=\"popup_list\"><li>1. <a href=\"https://en.wikipedia.org/wiki/Calcium_oxide#Preparation\" target=\"_blank\" rel=\"noopener noreferrer\">Wikipedia - Calcium Oxide</a></li><li>2. <a href=\"https://en.wikipedia.org/wiki/Calcium_hydroxide\" target=\"_blank\" rel=\"noopener noreferrer\">Wikipedia - Calcium Hydroxide</a></li></ul><button type=\"button\" id=\"close_popup_btn\" onclick=closePopup()>Close</button>"
+    },
+    "11": {
+        "reactant": {
+            "Ca(OH)₂": [
+                1,
+                "aq"
+            ]
+        },
+        "product": {
+            "CaO": [
+                1,
+                "s"
+            ],
+            "H₂O": [
+                1,
+                "l"
+            ]
+        },
+        "more": "<h3>Ca(OH)₂<sub>(aq)</sub> ⟶ CaO<sub>(s)</sub> + H₂O<sub>(l)</sub></h3><hr><h4>Reactants:</h4><ul class=\"popup_list\"><li>Ca(OH)₂<sub>(aq)</sub>: Calcium Hydroxide (Aqueous)</li></ul><h4>Products:</h4><ul class=\"popup_list\"><li>CaO<sub>(s)</sub>: Calcium Oxide (Solid)</li><li>H₂O<sub>(l)</sub>: Water (Liquid)</li></ul><hr><h4>Info:</h4><ul class=\"popup_list\"><li><b>Heat (Δ)</b> required for reacting</li><li onclick=\"openPopup('10')\">CaO<sub>(s)</sub> + H₂O<sub>(l)</sub> ⇌ Ca(OH)₂<sub>(aq)</sub></li></ul><hr><h4>References:</h4><ul class=\"popup_list\"><li>1. <a href=\"https://en.wikipedia.org/wiki/Calcium_oxide#Preparation\" target=\"_blank\" rel=\"noopener noreferrer\">Wikipedia - Calcium Oxide</a></li><li>2. <a href=\"https://en.wikipedia.org/wiki/Calcium_hydroxide\" target=\"_blank\" rel=\"noopener noreferrer\">Wikipedia - Calcium Hydroxide</a></li></ul><button type=\"button\" id=\"close_popup_btn\" onclick=closePopup()>Close</button>"
+    },
+    "12": {
+        "reactant": {
+            "Ca(OH)₂": [
+                1,
+                "aq"
+            ],
+            "CO₂": [
+                1,
+                "g"
+            ]
+        },
+        "product": {
+            "CaCO₃": [
+                1,
+                "s"
+            ],
+            "H₂O": [
+                1,
+                "l"
+            ]
+        },
+        "more": "<h3>Ca(OH)₂<sub>(aq)</sub> + CO₂<sub>(g)</sub> ⟶ CaCO₃<sub>(s)</sub> + H₂O<sub>(l)</sub></h3><hr><h4>Reactants:</h4><ul class=\"popup_list\"><li>Ca(OH)₂<sub>(aq)</sub>: Calcium Hydroxide (Aqueous)</li><li>CO₂<sub>(g)</sub>: Carbon Dioxide (Gas)</li></ul><h4>Products:</h4><ul class=\"popup_list\"><li>CaCO₃<sub>(s)</sub>: Calcium Carbonate (Solid)</li><li>H₂O<sub>(l)</sub>: Water (Liquid)</li></ul><hr><h4>Info:</h4><ul class=\"popup_list\"><li>Test for carbon dioxide</li></ul><hr><h4>References:</h4><ul class=\"popup_list\"><li>1. <a href=\"https://en.wikipedia.org/wiki/Calcium_carbonate#Preparation\" target=\"_blank\" rel=\"noopener noreferrer\">Wikipedia - Calcium Carbonate</a></li></ul><button type=\"button\" id=\"close_popup_btn\" onclick=closePopup()>Close</button>"
+    },
+    "13": {
+        "reactant": {
+            "CaCO₃": [
+                1,
+                "s"
+            ],
+            "H₂O": [
+                1,
+                "l"
+            ],
+            "CO₂": [
+                1,
+                "g"
+            ]
+        },
+        "product": {
+            "Ca(HCO₃)₂": [
+                1,
+                "aq"
+            ]
+        },
+        "more": "<h3>CaCO₃<sub>(s)</sub> + H₂O<sub>(l)</sub> + CO₂<sub>(g)</sub> ⟶ Ca(HCO₃)₂<sub>(aq)</sub></h3><hr><h4>Reactants:</h4><ul class=\"popup_list\"><li>CaCO₃<sub>(s)</sub>: Calcium Carbonate (Solid)</li><li>H₂O<sub>(l)</sub>: Water (Liquid)</li><li>CO₂<sub>(g)</sub>: Carbon Dioxide (Gas)</li></ul><h4>Products:</h4><ul class=\"popup_list\"><li>Ca(HCO₃)₂<sub>(aq)</sub>: Calcium Hydrogencarbonate (Aqueous)</li></ul><hr><h4>Info:</h4><ul class=\"popup_list\"><li onclick=\"openPopup('14')\">H₂O<sub>(l)</sub> +CO₂ ⟶ H₂CO₃<sub>(aq)</sub></li><li onclick=\"openPopup('16')\">CaCO₃<sub>(s)</sub> + H₂CO₃<sub>(aq)</sub> ⟶ Ca(HCO₃)₂<sub>(aq)</sub></li></ul><hr><h4>References:</h4><ul class=\"popup_list\"><li>1. <a href=\"https://en.wikipedia.org/wiki/Calcium_carbonate#Chemistry\" target=\"_blank\" rel=\"noopener noreferrer\">Wikipedia - Calcium Carbonate</a></li></ul><button type=\"button\" id=\"close_popup_btn\" onclick=closePopup()>Close</button>"
+    },
+    "14": {
+        "reactant": {
+            "H₂O": [
+                1,
+                "l"
+            ],
+            "CO₂": [
+                1,
+                "g"
+            ]
+        },
+        "product": {
+            "H₂CO₃": [
+                1,
+                "aq"
+            ]
+        },
+        "more": "<h3>H₂O<sub>(l)</sub> + CO₂<sub>(g)</sub> ⟶ H₂CO₃<sub>(aq)</sub></h3><hr><h4>Reactants:</h4><ul class=\"popup_list\"><li>H₂O<sub>(l)</sub>: Water (Liquid)</li><li>CO₂<sub>(g)</sub>: Carbon Dioxide (Gas)</li></ul><h4>Products:</h4><ul class=\"popup_list\"><li>H₂CO₃<sub>(aq)</sub>: Carbonic Acid (Aqueous)</li></ul><hr><h4>Info:</h4><ul class=\"popup_list\"><li onclick=\"openPopup('15')\">H₂O<sub>(l)</sub> + CO₂<sub>(g)</sub> ⇌ H₂CO₃<sub>(aq)</sub></li></ul><hr><h4>References:</h4><ul class=\"popup_list\"><li>1. <a href=\"https://en.wikipedia.org/wiki/Carbon_dioxide#In_aqueous_solution\" target=\"_blank\" rel=\"noopener noreferrer\">Wikipedia - Carbon Dioxide</a></li></ul><button type=\"button\" id=\"close_popup_btn\" onclick=closePopup()>Close</button>"
+    },
+    "15": {
+        "reactant": {
+            "H₂CO₃": [
+                1,
+                "aq"
+            ]
+        },
+        "product": {
+            "H₂O": [
+                1,
+                "l"
+            ],
+            "CO₂": [
+                1,
+                "g"
+            ]
+        },
+        "more": "<h3>H₂CO₃<sub>(aq)</sub> ⟶ H₂O<sub>(l)</sub> +CO₂<sub>(g)</sub></h3><hr><h4>Reactants:</h4><ul class=\"popup_list\"><li>H₂CO₃<sub>(aq)</sub>: Carbonic Acid (Aqueous)</li></ul><h4>Products:</h4><ul class=\"popup_list\"><li>H₂O<sub>(l)</sub>: Water (Liquid)</li><li>CO₂<sub>(g)</sub>: Carbon Dioxide (Gas)</li></ul><hr><h4>Info:</h4><ul class=\"popup_list\"><li onclick=\"openPopup('14')\">H₂O<sub>(l)</sub> + CO₂<sub>(g)</sub> ⇌ H₂CO₃<sub>(aq)</sub></li></ul><hr><h4>References:</h4><ul class=\"popup_list\"><li>1. <a href=\"https://en.wikipedia.org/wiki/Carbon_dioxide#In_aqueous_solution\" target=\"_blank\" rel=\"noopener noreferrer\">Wikipedia - Carbon Dioxide</a></li></ul><button type=\"button\" id=\"close_popup_btn\" onclick=closePopup()>Close</button>"
+    },
+    "16": {
+        "reactant": {
+            "CaCO₃": [
+                1,
+                "s"
+            ],
+            "H₂CO₃": [
+                1,
+                "aq"
+            ]
+        },
+        "product": {
+            "Ca(HCO₃)₂": [
+                1,
+                "aq"
+            ]
+        },
+        "more": "<h3>CaCO₃<sub>(s)</sub> + H₂CO₃<sub>(aq)</sub> ⟶ Ca(HCO₃)₂<sub>(aq)</sub></h3><hr><h4>Reactants:</h4><ul class=\"popup_list\"><li>CaCO₃<sub>(s)</sub>: Calcium Carbonate (Solid)</li><li>H₂CO₃<sub>(aq)</sub>: Carbonic Acid (Aqueous)</li></ul><h4>Products:</h4><ul class=\"popup_list\"><li>Ca(HCO₃)₂<sub>(aq)</sub>: Calcium Hydrogencarbonate (Aqueous)</li></ul><hr><h4>Info:</h4><ul class=\"popup_list\"><li onclick=\"openPopup('13')\">CaCO₃<sub>(s)</sub> + H₂O<sub>(l)</sub> + CO₂<sub>(g)</sub> ⟶ Ca(HCO₃)₂<sub>(aq)</sub></li></ul><hr><h4>References:</h4><ul class=\"popup_list\"><li>1. <a href=\"https://www.wikihow.com/Test-for-CO%E2%82%82#Bubbling-Through-Limewater\" target=\"_blank\" rel=\"noopener noreferrer\">Wikihow - Test for CO₂</a></li></ul><button type=\"button\" id=\"close_popup_btn\" onclick=closePopup()>Close</button>"
+    }
+}

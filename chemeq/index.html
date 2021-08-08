@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Chemical Equation Searcher</title>
+        <meta charset="utf-8">
+        <meta name="description" content="Chemical Equation Searcher">
+        <meta name="keywords" content="Chemical Equation, Chemistry">
+        <meta name="author" content="Gaia Force">
+        <link rel="stylesheet" href="style.css">
+        <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+        <script src="script.js"></script>
+    </head>
+
+    <body>
+
+        <div class="header">
+            <!-- <h1 id="title"><a href="#" id="title">Chemical Equation Searcher - bit.ly/ChemicalEquation</a></h1> -->
+            <h1 id="title"><a href="#" id="title">Chemical Equation Searcher</a></h1>
+        </div>
+
+        <div class="main">
+            <div class="big_div">
+                <div class="blank_div" id="left_blank_div">
+                    
+                </div>
+                <div class="input_div" id="input_div">
+                    <form action='#' method='post'>
+                        <div class="input_chemname">
+                            <label for="chem_names" class="chemname_label">Name / Chemical Formula: </label>
+                            <input type="text" list="chem_namelist" name="chem_names" id="chem_names">
+                            <datalist id="chem_namelist">
+                            </datalist>
+                        </div>
+                        <div class="input_amount">
+                            <label for="amount" class="amount_label">Amount: </label>
+                            <input type="number" name="amount" id="amount" class="amount_input" value="0" placeholder="Type 0 if Not Specified." min="0" max="999">
+                        </div>
+                        <div class="input_state">
+                            <input type="radio" name="state" id="state_solid_btn" value="s">
+                            <label id="state_solid" class="state_label" for="state_solid_btn">Solid</label>
+                            <input type="radio" name="state" id="state_liquid_btn" value="l">
+                            <label id="state_liquid" class="state_label" for="state_liquid_btn">Liquid</label>
+                            <input type="radio" name="state" id="state_gas_btn" value="g">
+                            <label id="state_gas" class="state_label" for="state_gas_btn">Gas</label>
+                            <br>
+                            <input type="radio" name="state" id="state_aqueous_btn" value="aq">
+                            <label id="state_aqueous" class="state_label" for="state_aqueous_btn">Aqueous</label>
+                            <input type="radio" name="state" id="state_ns_btn" value="ns">
+                            <label id="state_ns" class="state_label" for="state_ns_btn">Not Specified</label>
+                        </div>
+                        <div class="input_side">
+                            <input type="radio" name="side" id="reactant_btn" value="reactant">
+                            <label id="side_reactant" class="side_label" for="reactant_btn">Reactant</label>
+                            <input type="radio" name="side" id="product_btn" value="product">
+                            <label id="side_product" class="side_label" for="product_btn">Product</label>
+                        </div>
+                        <div class="input_btn">
+                            <button type="button" id="add_btn">Loading...</button>
+                            <!--<button type="button" id="reset_btn" onclick="reset()">Reset!</button>-->
+                        </div>
+                    </form>
+                </div>                
+                <div class="blank_div" id="right_blank_div">
+                    
+                </div>
+            </div>
+            <div class="table_div">
+                <div id="table_reactant">
+                    <ul id="reactant_list">
+
+                    </ul>
+                </div>
+                <div id="table_product">
+                    <ul id="product_list">
+
+                    </ul>
+                </div>
+            </div>
+            <div class="search_div">
+                <button type="button" id="search_btn">Loading...</button>
+            </div>
+            <div class="middle_blank_div" id="middle_blank_div">
+                
+            </div>
+            <div class="result_div">
+                <ul id="result_list">
+
+                </ul>
+            </div>
+
+            <div class="popup" id="popup">
+                <div class="popup-content", id='popup-content'>
+                    
+                </div>
+            </div>
+        </div>
+        
+        <!--
+        <footer id="footer">
+            Made by Gaia Force - Please bookmark this website and share it to your friends if useful! - https://bit.ly/ChemicalEquation
+        </footer>
+        -->
+    </body>
+</html>
