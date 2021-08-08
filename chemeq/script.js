@@ -3,12 +3,12 @@ var itemArr, data;
 function initialize() {
 
     $(document).ready(function() {
-        $.getJSON('../items.json', function(d) {
+        $.getJSON('items.json', function(d) {
             console.log(d);
             itemArr = d.a;
         });
 
-        $.getJSON('../formulae.json', function(d) {
+        $.getJSON('formulae.json', function(d) {
             console.log(d);
             data = d;
         });
